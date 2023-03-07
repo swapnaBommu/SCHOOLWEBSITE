@@ -1,0 +1,10 @@
+.carousel-indicators li{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: rgb(40, 177, 218);
+}
+.carousel-indicators li.active
+{
+    background-color: white;
+}
